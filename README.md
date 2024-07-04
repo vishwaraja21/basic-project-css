@@ -153,7 +153,7 @@ h1 {
 
 ```
 
-##contact.html
+contact.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -205,7 +205,7 @@ h1 {
 </html>
 
 ```
-##contact.css
+contact.css
 ```
  
   *{
@@ -317,7 +317,7 @@ main {
 }
 
 ```
-##people.css
+people.css
 ```
  
   *{
@@ -448,7 +448,7 @@ main {
     color: #ff0000;
 }
 ```
-##people.html
+people.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -508,7 +508,7 @@ main {
 </body>
 </html>
 ```
-##product.css
+product.css
 ```
  
   *{
@@ -620,7 +620,7 @@ main {
 }
 
 ```
-##product.html
+product.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -700,7 +700,7 @@ main {
 ```
 
 
-##outputs
+outputs
 
 
 ![image](https://github.com/vishwaraja21/login/assets/102411421/ccccfe5f-106f-41f4-beca-6f4ff61f1176)
