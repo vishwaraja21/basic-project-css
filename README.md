@@ -46,7 +46,7 @@
 </html>
 ```
 
-##home.css
+home.css
 ```
  
   *{
